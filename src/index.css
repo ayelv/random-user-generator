@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+}
+
+ul {
+    text-align:center;
+
+}
+
+.user-display {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.display-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+h2 {
+      text-align:center;
+
+}
+
+.row {
+  margin: 35px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: 20px;
+  width: 40%;
+  float: left;
+}
